@@ -1,7 +1,6 @@
-# 11b._Branch_zusammenfuehren_VS
-### **Erst pull, dann push >> "Vermeide Konflikte - vermeide merge!"**
+### **Branch zusammenführen >> in Visual Studio**
 
-#### **Video:**  [Erst pull, dann push - vermeide merge](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EUxFnsbUTodIvwP3eRwg8cUBFvwW9wCWQAZkF8RsNtRHuw?e=bDoi4Z) 🎞
+#### **Video:**  [Branch zusammenführen](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/EdsDOxmCS4ZLpc9nEW3peP4BndSV-l-c5zXFz2lbCEh_Uw?e=lBhB3y) 🎞
 
 1.  Erstelle als erste Teilnehmerin einen erklärenden Text zu dem oberen Video oder erstelle ein besseres Video zu dem aktuellen Thema.
 Helfe mit den Kurs immer aktuell zu halten! 👍
